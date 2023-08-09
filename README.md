@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm a full stack web developer with a year of experience building web applications using the MERN stack. I also have a master's degree in computer vision. I'm passionate about building scalable web solutions and integrating cutting edge technologies.
 
-- 🔭 I’m currently working on a large scale travel agency web application that regroups all the travel agencies into a one place offering alot of services
-
-- 🌱 I’m currently learning the new Next13 (app directory)
-
-- 👯 I’m looking to collaborate on interessting projects, joining a team of passionate developers
-
 - 📫 How to reach me: bouakkaz144.lotfi@gmail.com
 
 - ⚡ Fun fact: I'm an experienced music producer, you can check out on my Spotify's artist page(https://open.spotify.com/artist/6bv7KnC1UWk86sXFNS1MpB)
