@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a full stack web developer with a year of experience building web applications using the MERN stack. I also have a master's degree in computer vision. I'm passionate about building scalable web solutions and integrating cutting edge technologies.
+Hello, My name is Lotfi Bouakkaz. I have 3 Years of experience in Web development, i have a Masters degree in Visual Computing, , and i specialize in Frontend development using React 
 
 - 📫 How to reach me: bouakkaz144.lotfi@gmail.com
 
